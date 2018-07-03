@@ -1,7 +1,8 @@
 Simulation AI Semi
 ==================
 
-Simulation of a tractor trailer being parallel parked on the Maine
-DOT's course.
+Simulations of tractor trailer maneuvers on the Maine DOT's course.
+The vehicle paths (trajectories) were discovered using classical AI
+search techniques.
 
 ![Simulation of a tractor trailer being parallel parked](/parallel-park.gif)
